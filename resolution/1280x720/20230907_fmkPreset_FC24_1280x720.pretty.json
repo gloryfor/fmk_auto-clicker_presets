@@ -732,7 +732,7 @@
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":674,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1235,"xPos1":-1,"yPos":43,"yPos1":-1}
 
-],"antiDetection":false,"id":0,"name":"일일미션-각성","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+],"antiDetection":false,"id":0,"name":"일일미션-각성특훈","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
 {"targets":[
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":682,"yPos1":-1},
