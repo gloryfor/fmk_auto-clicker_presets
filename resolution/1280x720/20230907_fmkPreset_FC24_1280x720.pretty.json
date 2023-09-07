@@ -1,68 +1,227 @@
 [
-{"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전230906)","numberOfCycles":10,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전230907)","numberOfCycles":10,"stopConditionChecked":0,"timeValue":300},
 
-{"targets":[
-  {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
-  {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
-  {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
-  {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
+  {"targets":[
+    {"__comment__": "진화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1090,"xPos1":-1,"yPos":305,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":632,"xPos1":635,"yPos":273,"yPos1":146},
+    {"__comment__": "NG클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":725,"xPos1":-1,"yPos":459,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":694,"xPos1":-1,"yPos":358,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":222,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":335,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":463,"xPos1":-1,"yPos":541,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":658,"xPos1":-1,"yPos":670,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":419,"xPos1":-1,"yPos":662,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":594,"xPos1":600,"yPos":606,"yPos1":209},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":960,"xPos1":-1,"yPos":573,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":531,"xPos1":-1,"yPos":205,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":762,"xPos1":-1,"yPos":205,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":969,"xPos1":-1,"yPos":205,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":838,"xPos1":-1,"yPos":658,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":840,"xPos1":-1,"yPos":658,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":672,"xPos1":-1,"yPos":290,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1156,"xPos1":-1,"yPos":160,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1049,"xPos1":-1,"yPos":672,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1039,"xPos1":-1,"yPos":124,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1039,"xPos1":-1,"yPos":124,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":633,"xPos1":-1,"yPos":596,"yPos1":-1},
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":43,"yPos1":-1},
 
-  {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
+    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
+    {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
 
-  {"__comment__": "매니저모드진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1061,"xPos1":-1,"yPos":513,"yPos1":-1},
-  {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1029,"xPos1":-1,"yPos":309,"yPos1":-1},
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
 
-  {"__comment__": "매니저모드시작1(9분대기)", "delayUnit":2,"delayValue":9,"duration":0,"type":0,"xPos":128,"xPos1":-1,"yPos":682,"yPos1":-1},
-  {"__comment__": "매니저모드종료후 보상수령", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":811,"xPos1":-1,"yPos":654,"yPos1":-1},
-  {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
-  {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":994,"xPos1":-1,"yPos":682,"yPos1":-1},
-  {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1033,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매니저모드진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1061,"xPos1":-1,"yPos":513,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1029,"xPos1":-1,"yPos":309,"yPos1":-1},
 
-  {"__comment__": "매니저모드시작2(9분대기)", "delayUnit":2,"delayValue":9,"duration":0,"type":0,"xPos":128,"xPos1":-1,"yPos":682,"yPos1":-1},
-  {"__comment__": "매니저모드종료후 보상수령", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":811,"xPos1":-1,"yPos":654,"yPos1":-1},
-  {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
-  {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":994,"xPos1":-1,"yPos":682,"yPos1":-1},
-  {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1033,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매니저모드시작1(9분대기)", "delayUnit":2,"delayValue":9,"duration":0,"type":0,"xPos":128,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매니저모드종료후 보상수령", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":811,"xPos1":-1,"yPos":654,"yPos1":-1},
+    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":994,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1033,"xPos1":-1,"yPos":682,"yPos1":-1},
 
-  {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
+    {"__comment__": "매니저모드시작2(9분대기)", "delayUnit":2,"delayValue":9,"duration":0,"type":0,"xPos":128,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매니저모드종료후 보상수령", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":811,"xPos1":-1,"yPos":654,"yPos1":-1},
+    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":994,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1033,"xPos1":-1,"yPos":682,"yPos1":-1},
 
-  {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
-  {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
-  {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
-  {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
-], "antiDetection":false,"id":0,"name":"(월,화)일모1+매니저2+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
 
-{"targets":[
-  {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
-  {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
-  {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
-  {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
+    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
+    {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
+  ], "antiDetection":false,"id":0,"name":"(월)진화+일모1+매니저2+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
-  {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
+  {"targets":[
+    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
+    {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
 
-  {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
-  {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
-  {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
-  {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
-], "antiDetection":false,"id":0,"name":"(수,목,금)일모1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
 
-{"targets":[
-  {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
-  {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
-  {"__comment__": "일모시작1(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
-  {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
-  {"__comment__": "일모시작2(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
-  {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
+    {"__comment__": "매니저모드진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1061,"xPos1":-1,"yPos":513,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1029,"xPos1":-1,"yPos":309,"yPos1":-1},
 
-  {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
+    {"__comment__": "매니저모드시작1(9분대기)", "delayUnit":2,"delayValue":9,"duration":0,"type":0,"xPos":128,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매니저모드종료후 보상수령", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":811,"xPos1":-1,"yPos":654,"yPos1":-1},
+    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":994,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1033,"xPos1":-1,"yPos":682,"yPos1":-1},
 
-  {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
-  {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
-  {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
-  {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
-], "antiDetection":false,"id":0,"name":"(토,일)일모2+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+    {"__comment__": "매니저모드시작2(9분대기)", "delayUnit":2,"delayValue":9,"duration":0,"type":0,"xPos":128,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매니저모드종료후 보상수령", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":811,"xPos1":-1,"yPos":654,"yPos1":-1},
+    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":994,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1033,"xPos1":-1,"yPos":682,"yPos1":-1},
 
-{"targets":[
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
+
+    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
+    {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
+  ], "antiDetection":false,"id":0,"name":"(화)일모1+매니저2+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+
+  {"targets":[
+    {"__comment__": "이적시장구매시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":638,"xPos1":-1,"yPos":94,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":115,"xPos1":-1,"yPos":263,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1069,"xPos1":-1,"yPos":601,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":847,"xPos1":-1,"yPos":663,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":458,"xPos1":-1,"yPos":432,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":260,"xPos1":-1,"yPos":209,"yPos1":-1},
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1},
+
+    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
+    {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
+
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
+
+    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
+    {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
+  ], "antiDetection":false,"id":0,"name":"(수)이적시장1+일모1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+
+  {"targets":[
+    {"__comment__": "각성특훈시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1090,"xPos1":-1,"yPos":305,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":632,"xPos1":635,"yPos":273,"yPos1":146},
+    {"__comment__": "NG클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":725,"xPos1":-1,"yPos":459,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":694,"xPos1":-1,"yPos":358,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":222,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":111,"xPos1":-1,"yPos":388,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":564,"xPos1":-1,"yPos":213,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":674,"yPos1":-1},
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1235,"xPos1":-1,"yPos":43,"yPos1":-1},
+
+    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
+    {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
+
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
+
+    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
+    {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
+  ], "antiDetection":false,"id":0,"name":"(목)각성특훈1+일모1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+
+  {"targets":[
+    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
+    {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
+
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
+
+    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
+    {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
+  ], "antiDetection":false,"id":0,"name":"(금)일모1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+
+  {"targets":[
+    {"__comment__": "강화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1090,"xPos1":-1,"yPos":305,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":632,"xPos1":635,"yPos":273,"yPos1":146},
+    {"__comment__": "NG클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":725,"xPos1":-1,"yPos":459,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":694,"xPos1":-1,"yPos":358,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":222,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":275,"yPos1":-1},
+    {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":1053,"xPos1":-1,"yPos":424,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":636,"xPos1":-1,"yPos":597,"yPos1":-1},
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":41,"yPos1":-1},
+
+    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "일모시작1(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
+    {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
+    {"__comment__": "일모시작2(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
+    {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
+
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
+
+    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
+    {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
+  ], "antiDetection":false,"id":0,"name":"(토)강화1+일모2+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+
+  {"targets":[
+    {"__comment__": "이적시장구매시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":638,"xPos1":-1,"yPos":94,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":115,"xPos1":-1,"yPos":263,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1069,"xPos1":-1,"yPos":601,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":847,"xPos1":-1,"yPos":663,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":458,"xPos1":-1,"yPos":432,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":260,"xPos1":-1,"yPos":209,"yPos1":-1},
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1},
+
+    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "일모시작1(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
+    {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
+    {"__comment__": "일모시작2(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
+    {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
+
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
+
+    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
+    {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
+  ], "antiDetection":false,"id":0,"name":"(일)이적시장1+일모2+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+
+
+  {"targets":[
 {"delayUnit":0,"delayValue":3000,"duration":2000,"type":1,"xPos":1206,"xPos1":216,"yPos":117,"yPos1":119},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":209,"xPos1":-1,"yPos":428,"yPos1":-1},
 {"delayUnit":2,"delayValue":7,"duration":0,"type":0,"xPos":1005,"xPos1":-1,"yPos":630,"yPos1":-1},
@@ -518,7 +677,7 @@
 ],"antiDetection":false,"id":0,"name":"강화/진화/각성-base","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
 {"targets":[
-{"delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1090,"xPos1":-1,"yPos":305,"yPos1":-1},
+{"__comment__": "강화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1090,"xPos1":-1,"yPos":305,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
@@ -533,12 +692,12 @@
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":275,"yPos1":-1},
 {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":1053,"xPos1":-1,"yPos":424,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":636,"xPos1":-1,"yPos":597,"yPos1":-1},
-{"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":41,"yPos1":-1}
+{"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":41,"yPos1":-1}
 
 ],"antiDetection":false,"id":0,"name":"일일미션-강화","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
 {"targets":[
-{"delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1090,"xPos1":-1,"yPos":305,"yPos1":-1},
+{"__comment__": "진화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1090,"xPos1":-1,"yPos":305,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
@@ -567,12 +726,12 @@
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1039,"xPos1":-1,"yPos":124,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1039,"xPos1":-1,"yPos":124,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":633,"xPos1":-1,"yPos":596,"yPos1":-1},
-{"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":43,"yPos1":-1}
+{"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":43,"yPos1":-1}
 
 ],"antiDetection":false,"id":0,"name":"일일미션-진화","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
 {"targets":[
-{"delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1090,"xPos1":-1,"yPos":305,"yPos1":-1},
+{"__comment__": "각성특훈시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1090,"xPos1":-1,"yPos":305,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
@@ -587,19 +746,19 @@
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":111,"xPos1":-1,"yPos":388,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":564,"xPos1":-1,"yPos":213,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":674,"yPos1":-1},
-{"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1235,"xPos1":-1,"yPos":43,"yPos1":-1}
+{"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1235,"xPos1":-1,"yPos":43,"yPos1":-1}
 
 ],"antiDetection":false,"id":0,"name":"일일미션-각성특훈","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
 {"targets":[
-{"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":682,"yPos1":-1},
+{"__comment__": "이적시장구매시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":682,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":638,"xPos1":-1,"yPos":94,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":115,"xPos1":-1,"yPos":263,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1069,"xPos1":-1,"yPos":601,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":847,"xPos1":-1,"yPos":663,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":458,"xPos1":-1,"yPos":432,"yPos1":-1},
 {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":260,"xPos1":-1,"yPos":209,"yPos1":-1},
-{"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1}
+{"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1}
 
 ],"antiDetection":false,"id":0,"name":"일일미션-이적시장구매","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300}
 
