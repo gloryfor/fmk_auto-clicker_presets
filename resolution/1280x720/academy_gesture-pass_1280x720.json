@@ -1,4 +1,23 @@
 [
+  {"targets":[
+    {"__comment1__": "(아카데미진입후사용)고급과정선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":547,"xPos1":-1,"yPos":113,"yPos1":-1},
+    {"__comment2__": "화면좌측으로맞추기", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":122,"xPos1":1181,"yPos":166,"yPos1":167},
+    {"__comment3__": "제스처패스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":748,"xPos1":-1,"yPos":381,"yPos1":-1},
+    {"__comment4__": "제스처패스시작(20초대기)", "delayUnit":1,"delayValue":20,"duration":0,"type":0,"xPos":1082,"xPos1":-1,"yPos":658,"yPos1":-1},
+    {"__comment5__": "제스처패스-탭하여계속", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":627,"xPos1":-1,"yPos":620,"yPos1":-1},
+    {"__comment6__": "제스처패스-선수탭", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":570,"xPos1":-1,"yPos":199,"yPos1":-1},
+    {"__comment7__": "땅볼스루패스-탭하여계속", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":627,"xPos1":-1,"yPos":620,"yPos1":-1},
+    {"__comment8__": "땅볼스루패스-땅탭", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1013,"xPos1":-1,"yPos":324,"yPos1":-1},
+    {"__comment9__": "공중패스-탭하여계속", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":627,"xPos1":-1,"yPos":620,"yPos1":-1},
+    {"__comment10__": "공중패스-선수탭", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":851,"xPos1":-1,"yPos":496,"yPos1":-1},
+    {"__comment11__": "공중스루패스-탭하여계속", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":627,"xPos1":-1,"yPos":620,"yPos1":-1},
+    {"__comment12__": "공중스루패스-땅탭", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":987,"xPos1":-1,"yPos":356,"yPos1":-1},
+    {"__comment13__": "게임끝-보상수령", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":852,"xPos1":-1,"yPos":580,"yPos1":-1},
+    {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":647,"xPos1":-1,"yPos":589,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1085,"xPos1":-1,"yPos":679,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1130,"xPos1":-1,"yPos":678,"yPos1":-1}
+  ],"antiDetection":false,"id":0,"name":"아카데미고급과정-제스처패스","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+
   {
     "targets": [
         { "delayUnit": 0, "delayValue": 200, "duration": 0, "type": 0, "xPos": 397, "xPos1": -1, "yPos": 628, "yPos1": -1 },
