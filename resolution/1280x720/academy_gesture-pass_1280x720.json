@@ -1,22 +1,27 @@
 [
-  {"targets": [
-    {"delayUnit": 1, "delayValue": 3, "duration": 0, "type": 0, "xPos": 512, "xPos1": -1, "yPos": 629, "yPos1": -1},
-    {"delayUnit": 1, "delayValue": 4, "duration": 0, "type": 0, "xPos": 541, "xPos1": -1, "yPos": 197, "yPos1": -1},
-    {"delayUnit": 1, "delayValue": 3, "duration": 0, "type": 0, "xPos": 578, "xPos1": -1, "yPos": 625, "yPos1": -1},
-    {"delayUnit": 1, "delayValue": 6, "duration": 0, "type": 0, "xPos": 996, "xPos1": -1, "yPos": 321, "yPos1": -1},
-    {"delayUnit": 1, "delayValue": 3, "duration": 0, "type": 0, "xPos": 645, "xPos1": -1, "yPos": 626, "yPos1": -1},
-    {"delayUnit": 0, "delayValue": 50, "duration": 0, "type": 0, "xPos": 813, "xPos1": -1, "yPos": 501, "yPos1": -1},
-    {"delayUnit": 1, "delayValue": 7, "duration": 0, "type": 0, "xPos": 866, "xPos1": -1, "yPos": 502, "yPos1": -1},
-    {"delayUnit": 1, "delayValue": 3, "duration": 0, "type": 0, "xPos": 717, "xPos1": -1, "yPos": 620, "yPos1": -1},
-    {"delayUnit": 0, "delayValue": 50, "duration": 0, "type": 0, "xPos": 984, "xPos1": -1, "yPos": 358, "yPos1": -1},
-    {"delayUnit": 1, "delayValue": 10, "duration": 0, "type": 0, "xPos": 998, "xPos1": -1, "yPos": 357, "yPos1": -1},
-    {"delayUnit": 1, "delayValue": 6, "duration": 0, "type": 0, "xPos": 241, "xPos1": -1, "yPos": 580, "yPos1": -1}
-  ], "antiDetection": false, "id": 15, "name": "아카데미 제스처 패스", "numberOfCycles": 200, "stopConditionChecked": 2, "timeValue": 300},
-
-  {"targets": [
-    {"delayUnit": 0, "delayValue": 1, "duration": 0, "type": 0, "xPos": 633, "xPos1": -1, "yPos": 589, "yPos1": -1},
-    {"delayUnit": 0, "delayValue": 1, "duration": 0, "type": 0, "xPos": 922, "xPos1": -1, "yPos": 589, "yPos1": -1},
-    {"delayUnit": 1, "delayValue": 1, "duration": 0, "type": 0, "xPos": 1022, "xPos1": -1, "yPos": 680, "yPos1": -1},
-    {"delayUnit": 0, "delayValue": 1000, "duration": 0, "type": 0, "xPos": 1100, "xPos1": -1, "yPos": 677, "yPos1": -1}
-  ], "antiDetection": false, "id": 16, "name": "아카데미 제스처 보상", "numberOfCycles": 100, "stopConditionChecked": 2, "timeValue": 300}
+  {
+    "targets": [
+        { "delayUnit": 0, "delayValue": 200, "duration": 0, "type": 0, "xPos": 397, "xPos1": -1, "yPos": 628, "yPos1": -1 },
+        { "delayUnit": 1, "delayValue": 2, "duration": 0, "type": 0, "xPos": 566, "xPos1": -1, "yPos": 202, "yPos1": -1 },
+        { "delayUnit": 0, "delayValue": 200, "duration": 0, "type": 0, "xPos": 449, "xPos1": -1, "yPos": 627, "yPos1": -1 },
+        { "delayUnit": 1, "delayValue": 3, "duration": 0, "type": 0, "xPos": 997, "xPos1": -1, "yPos": 327, "yPos1": -1 },
+        { "delayUnit": 0, "delayValue": 200, "duration": 0, "type": 0, "xPos": 504, "xPos1": -1, "yPos": 626, "yPos1": -1 },
+        { "delayUnit": 0, "delayValue": 50, "duration": 0, "type": 0, "xPos": 805, "xPos1": -1, "yPos": 500, "yPos1": -1 },
+        { "delayUnit": 1, "delayValue": 4, "duration": 0, "type": 0, "xPos": 848, "xPos1": -1, "yPos": 502, "yPos1": -1 },
+        { "delayUnit": 0, "delayValue": 200, "duration": 0, "type": 0, "xPos": 558, "xPos1": -1, "yPos": 626, "yPos1": -1 },
+        { "delayUnit": 0, "delayValue": 50, "duration": 0, "type": 0, "xPos": 969, "xPos1": -1, "yPos": 354, "yPos1": -1 },
+        { "delayUnit": 1, "delayValue": 7, "duration": 0, "type": 0, "xPos": 997, "xPos1": -1, "yPos": 360, "yPos1": -1 },
+        { "delayUnit": 1, "delayValue": 6, "duration": 0, "type": 0, "xPos": 251, "xPos1": -1, "yPos": 583, "yPos1": -1 }
+    ],
+    "antiDetection": false, "id": 141, "name": "아카데미 제스처 패스 fixed", "numberOfCycles": 200, "stopConditionChecked": 2, "timeValue": 300
+  },
+  {
+    "targets": [
+        { "delayUnit": 0, "delayValue": 100, "duration": 0, "type": 0, "xPos": 569, "xPos1": -1, "yPos": 587, "yPos1": -1 },
+        { "delayUnit": 0, "delayValue": 100, "duration": 0, "type": 0, "xPos": 631, "xPos1": -1, "yPos": 586, "yPos1": -1 },
+        { "delayUnit": 1, "delayValue": 1, "duration": 0, "type": 0, "xPos": 998, "xPos1": -1, "yPos": 678, "yPos1": -1 },
+        { "delayUnit": 1, "delayValue": 1, "duration": 0, "type": 0, "xPos": 1050, "xPos1": -1, "yPos": 681, "yPos1": -1 }
+    ],
+    "antiDetection": false, "id": 142, "name": "아카데미 제스처 보상 fixed", "numberOfCycles": 100, "stopConditionChecked": 2, "timeValue": 300
+  }
 ]
