@@ -2,13 +2,13 @@
   {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전230922)","numberOfCycles":10,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "진화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1090,"xPos1":-1,"yPos":305,"yPos1":-1},
+    {"__comment__": "나의팀(로비)-진화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":812,"xPos1":-1,"yPos":525,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":632,"xPos1":635,"yPos":273,"yPos1":146},
-    {"__comment__": "NG클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":725,"xPos1":-1,"yPos":459,"yPos1":-1},
+    {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":969,"xPos1":-1,"yPos":486,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
@@ -33,15 +33,17 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":633,"xPos1":-1,"yPos":596,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":43,"yPos1":-1},
 
-    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>일반모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":505,"xPos1":-1,"yPos":352,"yPos1":-1},
     {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
     {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
 
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
 
-    {"__comment__": "매니저모드진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1061,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1029,"xPos1":-1,"yPos":309,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>매니저모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":809,"xPos1":-1,"yPos":348,"yPos1":-1},
 
     {"__comment__": "매니저모드시작1(9분대기)", "delayUnit":2,"delayValue":9,"duration":0,"type":0,"xPos":128,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "매니저모드종료후 보상수령", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":811,"xPos1":-1,"yPos":654,"yPos1":-1},
@@ -57,22 +59,25 @@
 
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
 
-    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
   ], "antiDetection":false,"id":0,"name":"(월)진화+일모1+매니저2+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>일반모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":505,"xPos1":-1,"yPos":352,"yPos1":-1},
     {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
     {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
 
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
 
-    {"__comment__": "매니저모드진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1061,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1029,"xPos1":-1,"yPos":309,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>매니저모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":809,"xPos1":-1,"yPos":348,"yPos1":-1},
 
     {"__comment__": "매니저모드시작1(9분대기)", "delayUnit":2,"delayValue":9,"duration":0,"type":0,"xPos":128,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "매니저모드종료후 보상수령", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":811,"xPos1":-1,"yPos":654,"yPos1":-1},
@@ -88,14 +93,15 @@
 
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
 
-    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
   ], "antiDetection":false,"id":0,"name":"(화)일모1+매니저2+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "이적시장구매시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "이적시장선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":638,"xPos1":-1,"yPos":94,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":115,"xPos1":-1,"yPos":263,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1069,"xPos1":-1,"yPos":601,"yPos1":-1},
@@ -104,27 +110,29 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":260,"xPos1":-1,"yPos":209,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1},
 
-    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>일반모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":505,"xPos1":-1,"yPos":352,"yPos1":-1},
     {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
     {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
 
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
 
-    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
   ], "antiDetection":false,"id":0,"name":"(수)이적시장1+일모1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "각성특훈시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1090,"xPos1":-1,"yPos":305,"yPos1":-1},
+    {"__comment__": "나의팀(로비)-각성특훈시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":812,"xPos1":-1,"yPos":525,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":632,"xPos1":635,"yPos":273,"yPos1":146},
-    {"__comment__": "NG클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":725,"xPos1":-1,"yPos":459,"yPos1":-1},
+    {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":969,"xPos1":-1,"yPos":486,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
@@ -135,41 +143,45 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":674,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1235,"xPos1":-1,"yPos":43,"yPos1":-1},
 
-    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>일반모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":505,"xPos1":-1,"yPos":352,"yPos1":-1},
     {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
     {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
 
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
 
-    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
   ], "antiDetection":false,"id":0,"name":"(목)각성특훈1+일모1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>일반모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":505,"xPos1":-1,"yPos":352,"yPos1":-1},
     {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
     {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
 
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
 
-    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
   ], "antiDetection":false,"id":0,"name":"(금)일모1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "강화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1090,"xPos1":-1,"yPos":305,"yPos1":-1},
+    {"__comment__": "나의팀(로비)-강화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":812,"xPos1":-1,"yPos":525,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":632,"xPos1":635,"yPos":273,"yPos1":146},
-    {"__comment__": "NG클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":725,"xPos1":-1,"yPos":459,"yPos1":-1},
+    {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":969,"xPos1":-1,"yPos":486,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
@@ -180,8 +192,9 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":636,"xPos1":-1,"yPos":597,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":41,"yPos1":-1},
 
-    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>일반모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":505,"xPos1":-1,"yPos":352,"yPos1":-1},
     {"__comment__": "일모시작1(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
     {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
     {"__comment__": "일모시작2(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
@@ -189,14 +202,15 @@
 
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
 
-    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
   ], "antiDetection":false,"id":0,"name":"(토)강화1+일모2+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "이적시장구매시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "이적시장선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":638,"xPos1":-1,"yPos":94,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":115,"xPos1":-1,"yPos":263,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1069,"xPos1":-1,"yPos":601,"yPos1":-1},
@@ -205,8 +219,9 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":260,"xPos1":-1,"yPos":209,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1},
 
-    {"__comment__": "일모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":510,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":478,"xPos1":-1,"yPos":360,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>일반모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":505,"xPos1":-1,"yPos":352,"yPos1":-1},
     {"__comment__": "일모시작1(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
     {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
     {"__comment__": "일모시작2(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
@@ -214,8 +229,9 @@
 
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
 
-    {"__comment__": "공모진입(로비에서시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1087,"xPos1":-1,"yPos":517,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":224,"xPos1":-1,"yPos":318,"yPos1":-1},
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
   ], "antiDetection":false,"id":0,"name":"(일)이적시장1+일모2+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
