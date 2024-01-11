@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240111.0)","numberOfCycles":10,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240111.1)","numberOfCycles":10,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "나의팀(로비)-진화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":812,"xPos1":-1,"yPos":525,"yPos1":-1},
@@ -405,7 +405,7 @@
   {"targets":[
     {"__comment__": "일일미션진입(삼국24)1", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
     {"__comment__": "항목1선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":86,"xPos1":-1,"yPos":124,"yPos1":-1},
-    {"__comment__": "보상수령(이벤트)","delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":795,"xPos1":-1,"yPos":484,"yPos1":-1},
+    {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -413,7 +413,7 @@
 
     {"__comment__": "일일미션진입(삼국24)2", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
     {"__comment__": "항목1선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":86,"xPos1":-1,"yPos":124,"yPos1":-1},
-    {"__comment__": "보상수령(이벤트)","delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":795,"xPos1":-1,"yPos":484,"yPos1":-1},
+    {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -421,7 +421,7 @@
 
     {"__comment__": "일일미션진입(삼국24)3", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
     {"__comment__": "항목1선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":86,"xPos1":-1,"yPos":124,"yPos1":-1},
-    {"__comment__": "보상수령(이벤트)","delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":795,"xPos1":-1,"yPos":484,"yPos1":-1},
+    {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
