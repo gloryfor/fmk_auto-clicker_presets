@@ -8,7 +8,7 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
     {"__comment__": "NG23까지스와이프", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":640,"xPos1":646,"yPos":392,"yPos1":115},
-    {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":529,"xPos1":-1,"yPos":499,"yPos1":-1},
+    {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":499,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
@@ -96,7 +96,7 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
     {"__comment__": "NG23까지스와이프", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":640,"xPos1":646,"yPos":392,"yPos1":115},
-    {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":529,"xPos1":-1,"yPos":499,"yPos1":-1},
+    {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":499,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
@@ -144,7 +144,7 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
     {"__comment__": "NG23까지스와이프", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":640,"xPos1":646,"yPos":392,"yPos1":115},
-    {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":529,"xPos1":-1,"yPos":499,"yPos1":-1},
+    {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":499,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
@@ -403,7 +403,7 @@
 
   {"targets":[
     {"__comment__": "일일미션진입(삼국24)1", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목1선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":86,"xPos1":-1,"yPos":124,"yPos1":-1},
+    {"__comment__": "항목2선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":99,"xPos1":-1,"yPos":236,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -411,7 +411,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입(삼국24)2", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목1선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":86,"xPos1":-1,"yPos":124,"yPos1":-1},
+    {"__comment__": "항목2선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":99,"xPos1":-1,"yPos":236,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -419,7 +419,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입(삼국24)3", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목1선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":86,"xPos1":-1,"yPos":124,"yPos1":-1},
+    {"__comment__": "항목2선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":99,"xPos1":-1,"yPos":236,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -427,7 +427,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입2-일일보상1", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목2선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":99,"xPos1":-1,"yPos":236,"yPos1":-1},
+    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -435,7 +435,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입2-일일보상2", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목2선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":99,"xPos1":-1,"yPos":236,"yPos1":-1},
+    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -443,7 +443,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입2-일일보상3", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목2선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":99,"xPos1":-1,"yPos":236,"yPos1":-1},
+    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -451,7 +451,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입2-일일보상3-1", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목2선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":99,"xPos1":-1,"yPos":236,"yPos1":-1},
+    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
     {"__comment__": "보상수령(일일보상)","delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1069,"xPos1":-1,"yPos":343,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -459,7 +459,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입2-일일보상4", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목2선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":99,"xPos1":-1,"yPos":236,"yPos1":-1},
+    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -467,7 +467,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입3-일일보상1", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
+    {"__comment__": "항목4선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":94,"xPos1":-1,"yPos":457,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -475,7 +475,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입3-일일보상2", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
+    {"__comment__": "항목4선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":94,"xPos1":-1,"yPos":457,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -483,7 +483,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입3-일일보상3", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
+    {"__comment__": "항목4선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":94,"xPos1":-1,"yPos":457,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -491,7 +491,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입3-일일보상3-1", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
+    {"__comment__": "항목4선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":94,"xPos1":-1,"yPos":457,"yPos1":-1},
     {"__comment__": "보상수령(일일보상)","delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1069,"xPos1":-1,"yPos":343,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -499,13 +499,13 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입3-일일보상4", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
+    {"__comment__": "항목4선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":94,"xPos1":-1,"yPos":457,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1}
-  ],"antiDetection":false,"id":0,"name":"일일미션보상(삼국24+DAILY(1,2))","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ],"antiDetection":false,"id":0,"name":"일일미션보상(삼국24(2)+DAILY(3,4))","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
     {"delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
@@ -652,7 +652,7 @@
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
   {"__comment__": "NG23까지스와이프", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":640,"xPos1":646,"yPos":392,"yPos1":115},
-  {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":529,"xPos1":-1,"yPos":499,"yPos1":-1},
+  {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":499,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
@@ -667,7 +667,7 @@
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
   {"__comment__": "NG23까지스와이프", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":640,"xPos1":646,"yPos":392,"yPos1":115},
-  {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":529,"xPos1":-1,"yPos":499,"yPos1":-1},
+  {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":499,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
@@ -686,7 +686,7 @@
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
   {"__comment__": "NG23까지스와이프", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":640,"xPos1":646,"yPos":392,"yPos1":115},
-  {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":529,"xPos1":-1,"yPos":499,"yPos1":-1},
+  {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":499,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
@@ -719,7 +719,7 @@
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":430,"xPos1":-1,"yPos":662,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":939,"xPos1":-1,"yPos":391,"yPos1":-1},
   {"__comment__": "NG23까지스와이프", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":640,"xPos1":646,"yPos":392,"yPos1":115},
-  {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":529,"xPos1":-1,"yPos":499,"yPos1":-1},
+  {"__comment__": "NG23클래스선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":499,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":664,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":829,"xPos1":-1,"yPos":666,"yPos1":-1},
   {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":916,"xPos1":-1,"yPos":148,"yPos1":-1},
