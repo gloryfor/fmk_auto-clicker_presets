@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240201.5)","numberOfCycles":10,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240201.6)","numberOfCycles":10,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "나의팀(로비)-진화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":812,"xPos1":-1,"yPos":525,"yPos1":-1},
