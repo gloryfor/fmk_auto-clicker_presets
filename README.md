@@ -3,7 +3,7 @@
 ## Description
 * 앱플레이어(LD, Bluestack 등..)에서 넥슨 피파모바일의 각종 미션을 자동으로 수행하기 위한 [오토클리커](https://play.google.com/store/apps/details?id=com.truedevelopersstudio.automatictap.autoclicker) 앱의 프리셋입니다. 
 * 앱플레이어의 해상도는 현재 1280x720 만 지원합니다.
-* [다운받기](https://github.com/gloryfor/fmk_auto-clicker_presets/raw/master/resolution/1280x720/20240201_fmkPreset_24TOTY_1280x720.pretty.json) - 우클릭 저장
+* [다운받기](https://github.com/gloryfor/fmk_auto-clicker_presets/raw/master/resolution/1280x720/20240307_fmkPreset_HUH24_1280x720.pretty.json) - 우클릭 저장
 
 ## 사용방법
 * 앱플레이어에 [오토클리커](https://play.google.com/store/apps/details?id=com.truedevelopersstudio.automatictap.autoclicker) 를 설치하고 프리셋 가져오기
