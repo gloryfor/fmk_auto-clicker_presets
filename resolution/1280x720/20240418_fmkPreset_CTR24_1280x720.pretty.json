@@ -326,7 +326,7 @@
     {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
-  ], "antiDetection":false,"id":0,"name":"(일)CT24_PVE(토)+이적시장1+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ], "antiDetection":false,"id":0,"name":"(일)CT24_PVE(일)+이적시장1+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
     {"__comment__": "우측끝으로스크롤", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":1206,"xPos1":256,"yPos":117,"yPos1":119},
