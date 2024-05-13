@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240418.4)","numberOfCycles":10,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240418.5)","numberOfCycles":10,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "나의팀(로비)-진화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":812,"xPos1":-1,"yPos":525,"yPos1":-1},
@@ -693,14 +693,16 @@
     {"__comment7__": "땅볼스루패스-탭하여계속", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":627,"xPos1":-1,"yPos":620,"yPos1":-1},
     {"__comment8__": "땅볼스루패스-땅탭", "delayUnit":0,"delayValue":7000,"duration":0,"type":0,"xPos":1013,"xPos1":-1,"yPos":324,"yPos1":-1},
     {"__comment9__": "공중패스-탭하여계속", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":627,"xPos1":-1,"yPos":620,"yPos1":-1},
+    {"__comment10__": "공중패스-선수탭", "delayUnit":0,"delayValue":300,"duration":0,"type":0,"xPos":851,"xPos1":-1,"yPos":496,"yPos1":-1},
     {"__comment10__": "공중패스-선수탭", "delayUnit":0,"delayValue":7000,"duration":0,"type":0,"xPos":851,"xPos1":-1,"yPos":496,"yPos1":-1},
-    {"__comment11__": "공중스루패스-탭하여계속", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":627,"xPos1":-1,"yPos":620,"yPos1":-1},
-    {"__comment12__": "공중스루패스-땅탭", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":987,"xPos1":-1,"yPos":356,"yPos1":-1},
+    {"__comment11__": "로빙스루패스-탭하여계속", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":627,"xPos1":-1,"yPos":620,"yPos1":-1},
+    {"__comment12__": "로빙스루패스-땅탭", "delayUnit":0,"delayValue":300,"duration":0,"type":0,"xPos":987,"xPos1":-1,"yPos":356,"yPos1":-1},
+    {"__comment12__": "로빙스루패스-땅탭", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":987,"xPos1":-1,"yPos":356,"yPos1":-1},
     {"__comment13__": "게임끝-보상수령", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":852,"xPos1":-1,"yPos":580,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":647,"xPos1":-1,"yPos":589,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1085,"xPos1":-1,"yPos":679,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1130,"xPos1":-1,"yPos":678,"yPos1":-1}
-  ],"antiDetection":false,"id":0,"name":"아카데미고급과정-제스처패스","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ],"antiDetection":false,"id":0,"name":"아카데미고급과정-제스처패스(설정On)","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":
   [
