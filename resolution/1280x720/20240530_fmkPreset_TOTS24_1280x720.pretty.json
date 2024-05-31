@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240530.3)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240530.4)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
@@ -1045,7 +1045,8 @@
     {"__comment__": "FC모바일한국대표선발전선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":207,"xPos1":-1,"yPos":393,"yPos1":-1},
     {"__comment__": "팀선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1056,"xPos1":-1,"yPos":646,"yPos1":-1},
     {"__comment__": "게임시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":1122,"xPos1":-1,"yPos":675,"yPos1":-1},
-    {"__comment__": "챌린지게임종료/보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":888,"xPos1":-1,"yPos":652,"yPos1":-1},
+    {"__comment__": "챌린지게임종료/보상수령시작", "delayUnit":1,"delayValue":15,"duration":0,"type":0,"xPos":888,"xPos1":-1,"yPos":652,"yPos1":-1},
+    {"__comment__": "우승했을경우도있으니한번더눌러줌", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
