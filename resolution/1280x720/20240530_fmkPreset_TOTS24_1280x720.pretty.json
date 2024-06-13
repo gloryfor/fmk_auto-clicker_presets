@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240530.6)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240530.7)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
@@ -1041,8 +1041,8 @@
     {"__comment__": "플레이센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":481,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":230,"xPos1":1241,"yPos":186,"yPos1":186},
     {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":231,"xPos1":1239,"yPos":188,"yPos1":182},
-    {"__comment__": "우측으로스크롤", "delayUnit":0,"delayValue":300,"duration":500,"type":1,"xPos":640,"xPos1":232,"yPos":255,"yPos1":257},
-    {"__comment__": "어센틱챌린지선택", "delayUnit":0,"delayValue":300,"duration":0,"type":0,"xPos":697,"xPos1":-1,"yPos":363,"yPos1":-1},
+    {"__comment__": "우측으로스크롤", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":640,"xPos1":232,"yPos":255,"yPos1":257},
+    {"__comment__": "어센틱챌린지선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":697,"xPos1":-1,"yPos":363,"yPos1":-1},
     {"__comment__": "FC모바일한국대표선발전선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":207,"xPos1":-1,"yPos":393,"yPos1":-1},
     {"__comment__": "팀선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1056,"xPos1":-1,"yPos":646,"yPos1":-1},
     {"__comment__": "게임시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":1122,"xPos1":-1,"yPos":675,"yPos1":-1},
