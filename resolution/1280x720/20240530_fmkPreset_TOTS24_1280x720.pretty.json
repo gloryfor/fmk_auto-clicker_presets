@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240530.5)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240530.6)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
@@ -643,7 +643,7 @@
 
   {"targets":[
     {"__comment__": "일일미션진입1-일일보상1(24TOTS)", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목1선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":85,"xPos1":-1,"yPos":124,"yPos1":-1},
+    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
     {"__comment__": "보상수령(24TOTS-주간미션1)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":805,"xPos1":-1,"yPos":484,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -651,7 +651,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입1-일일보상1(24TOTS)", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목1선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":85,"xPos1":-1,"yPos":124,"yPos1":-1},
+    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
     {"__comment__": "보상수령(24TOTS-주간미션완)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1105,"xPos1":-1,"yPos":658,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -659,7 +659,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입1-일일보상1", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목1선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":85,"xPos1":-1,"yPos":124,"yPos1":-1},
+    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -667,7 +667,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입1-일일보상2", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목1선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":85,"xPos1":-1,"yPos":124,"yPos1":-1},
+    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -675,7 +675,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입1-일일보상3", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목1선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":85,"xPos1":-1,"yPos":124,"yPos1":-1},
+    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -683,7 +683,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입1-일일보상3-1", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목1선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":85,"xPos1":-1,"yPos":124,"yPos1":-1},
+    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
     {"__comment__": "보상수령(일일보상)","delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1069,"xPos1":-1,"yPos":343,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -691,7 +691,7 @@
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1},
 
     {"__comment__": "일일미션진입1-일일보상4", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
-    {"__comment__": "항목1선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":85,"xPos1":-1,"yPos":124,"yPos1":-1},
+    {"__comment__": "항목3선택", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":97,"xPos1":-1,"yPos":350,"yPos1":-1},
     {"__comment__": "보상수령(일반)", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":789,"xPos1":-1,"yPos":304,"yPos1":-1},
     {"delayUnit":0,"delayValue":4000,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -737,7 +737,7 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1}
-  ],"antiDetection":false,"id":0,"name":"일일미션보상(24TOTS주간미션+DAILY(1,2))","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ],"antiDetection":false,"id":0,"name":"일일미션보상(24TOTS주간미션+DAILY(3,2))","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
     {"delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
@@ -798,7 +798,7 @@
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":949,"xPos1":-1,"yPos":661,"yPos1":-1},
     {"delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":753,"xPos1":-1,"yPos":489,"yPos1":-1},
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":910,"xPos1":-1,"yPos":436,"yPos1":-1}
-  ],"antiDetection":false,"id":0,"name":"이적시장판매(잠금O)","numberOfCycles":10,"stopConditionChecked":2,"timeValue":300},
+  ],"antiDetection":false,"id":0,"name":"이적시장판매(잠금O)","numberOfCycles":20,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":118,"xPos1":-1,"yPos":251,"yPos1":-1},
@@ -806,7 +806,7 @@
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":944,"xPos1":-1,"yPos":660,"yPos1":-1},
     {"delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":775,"xPos1":-1,"yPos":491,"yPos1":-1},
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":867,"xPos1":-1,"yPos":432,"yPos1":-1}
-  ],"antiDetection":false,"id":0,"name":"이적시장판매(잠금X)","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ],"antiDetection":false,"id":0,"name":"이적시장판매(잠금X)","numberOfCycles":20,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
     {"__comment1__": "(아카데미진입후사용)고급과정선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":547,"xPos1":-1,"yPos":113,"yPos1":-1},
@@ -1041,7 +1041,8 @@
     {"__comment__": "플레이센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":481,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":230,"xPos1":1241,"yPos":186,"yPos1":186},
     {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":231,"xPos1":1239,"yPos":188,"yPos1":182},
-    {"__comment__": "어센틱챌린지선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1106,"xPos1":-1,"yPos":392,"yPos1":-1},
+    {"__comment__": "우측으로스크롤", "delayUnit":0,"delayValue":300,"duration":500,"type":1,"xPos":640,"xPos1":232,"yPos":255,"yPos1":257},
+    {"__comment__": "어센틱챌린지선택", "delayUnit":0,"delayValue":300,"duration":0,"type":0,"xPos":697,"xPos1":-1,"yPos":363,"yPos1":-1},
     {"__comment__": "FC모바일한국대표선발전선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":207,"xPos1":-1,"yPos":393,"yPos1":-1},
     {"__comment__": "팀선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1056,"xPos1":-1,"yPos":646,"yPos1":-1},
     {"__comment__": "게임시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":1122,"xPos1":-1,"yPos":675,"yPos1":-1},
