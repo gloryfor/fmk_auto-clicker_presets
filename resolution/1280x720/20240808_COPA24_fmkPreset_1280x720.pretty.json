@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240808.0)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240808.1)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "나의팀(로비)-진화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":812,"xPos1":-1,"yPos":525,"yPos1":-1},
@@ -126,42 +126,6 @@
   ], "antiDetection":false,"id":0,"name":"(수)이적시장+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
-    {"__comment__": "플레이센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":486,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1195,"yPos":168,"yPos1":164},
-    {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1199,"yPos":164,"yPos1":163},
-    {"__comment__": "[COPA24]이벤트선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":290,"xPos1":-1,"yPos":394,"yPos1":-1},
-    {"__comment__": "[COPA24]메인챕터선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":119,"xPos1":-1,"yPos":119,"yPos1":-1},
-    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1198,"yPos":164,"yPos1":164},
-    {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":200,"xPos1":1196,"yPos":164,"yPos1":164},
-    {"__comment__": "좌측으로스크롤3", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":202,"xPos1":1198,"yPos":164,"yPos1":164},
-    {"__comment__": "우측으로스크롤", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":1155,"xPos1":337,"yPos":194,"yPos1":194},
-    {"__comment__": "[COPA24]위클리매치1(PVE)선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":595,"xPos1":-1,"yPos":394,"yPos1":-1},
-    {"__comment__": "게임시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":1085,"xPos1":-1,"yPos":628,"yPos1":-1},
-    {"__comment__": "게임종료/보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":717,"xPos1":-1,"yPos":584,"yPos1":-1},
-    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
-    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
-
-    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
-    {"__comment__": "플레이센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":486,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1195,"yPos":168,"yPos1":164},
-    {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1199,"yPos":164,"yPos1":163},
-    {"__comment__": "[COPA24]이벤트선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":290,"xPos1":-1,"yPos":394,"yPos1":-1},
-    {"__comment__": "[COPA24]메인챕터선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":119,"xPos1":-1,"yPos":119,"yPos1":-1},
-    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1198,"yPos":164,"yPos1":164},
-    {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":200,"xPos1":1196,"yPos":164,"yPos1":164},
-    {"__comment__": "좌측으로스크롤3", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":202,"xPos1":1198,"yPos":164,"yPos1":164},
-    {"__comment__": "우측으로스크롤", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":1155,"xPos1":337,"yPos":194,"yPos1":194},
-    {"__comment__": "[COPA24]위클리매치2(PVE)선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":599,"xPos1":-1,"yPos":619,"yPos1":-1},
-    {"__comment__": "게임시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":1085,"xPos1":-1,"yPos":628,"yPos1":-1},
-    {"__comment__": "게임종료/보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":717,"xPos1":-1,"yPos":584,"yPos1":-1},
-    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
-    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
-
     {"__comment__": "나의팀(로비)-각성특훈시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":812,"xPos1":-1,"yPos":525,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -206,7 +170,7 @@
     {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
-  ], "antiDetection":false,"id":0,"name":"(목)COPA24위클리매치1_2+각성특훈1+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ], "antiDetection":false,"id":0,"name":"(목)각성특훈1+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
