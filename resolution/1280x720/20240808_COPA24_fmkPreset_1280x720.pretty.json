@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240808.1)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전240808.2)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "나의팀(로비)-진화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":812,"xPos1":-1,"yPos":525,"yPos1":-1},
@@ -635,6 +635,7 @@
     {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1195,"yPos":168,"yPos1":164},
     {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1199,"yPos":164,"yPos1":163},
     {"__comment__": "[COPA24]이벤트선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":290,"xPos1":-1,"yPos":394,"yPos1":-1},
+    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1198,"yPos":164,"yPos1":164},
     {"__comment__": "[COPA24]메인챕터선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":119,"xPos1":-1,"yPos":119,"yPos1":-1},
     {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1198,"yPos":164,"yPos1":164},
     {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":200,"xPos1":1196,"yPos":164,"yPos1":164},
@@ -653,6 +654,7 @@
     {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1195,"yPos":168,"yPos1":164},
     {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1199,"yPos":164,"yPos1":163},
     {"__comment__": "[COPA24]이벤트선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":290,"xPos1":-1,"yPos":394,"yPos1":-1},
+    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1198,"yPos":164,"yPos1":164},
     {"__comment__": "[COPA24]메인챕터선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":119,"xPos1":-1,"yPos":119,"yPos1":-1},
     {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1198,"yPos":164,"yPos1":164},
     {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":200,"xPos1":1196,"yPos":164,"yPos1":164},
