@@ -1,17 +1,7 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전241024.0)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전241024.1)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "상점선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1205,"xPos1":-1,"yPos":681,"yPos1":-1},
-    {"__comment__": "이벤트상점선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":409,"xPos1":-1,"yPos":96,"yPos1":-1},
-    {"__comment__": "발롱도르D-DAY선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":235,"yPos1":-1},
-    {"__comment__": "출석체크선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":310,"xPos1":-1,"yPos":348,"yPos1":-1},
-    {"__comment__": "보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":233,"xPos1":-1,"yPos":667,"yPos1":-1},
-    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
-    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
-
     {"__comment__": "나의팀(로비)-진화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":812,"xPos1":-1,"yPos":525,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -71,19 +61,9 @@
     {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
-  ], "antiDetection":false,"id":0,"name":"(월)BLD24(Daily)+진화+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ], "antiDetection":false,"id":0,"name":"(월)진화+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "상점선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1205,"xPos1":-1,"yPos":681,"yPos1":-1},
-    {"__comment__": "이벤트상점선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":409,"xPos1":-1,"yPos":96,"yPos1":-1},
-    {"__comment__": "발롱도르D-DAY선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":235,"yPos1":-1},
-    {"__comment__": "출석체크선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":310,"xPos1":-1,"yPos":348,"yPos1":-1},
-    {"__comment__": "보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":233,"xPos1":-1,"yPos":667,"yPos1":-1},
-    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
-    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
-
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
     {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "매치센터>>일반모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":505,"xPos1":-1,"yPos":352,"yPos1":-1},
@@ -108,19 +88,9 @@
     {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
-  ], "antiDetection":false,"id":0,"name":"(화)BLD24(Daily)+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ], "antiDetection":false,"id":0,"name":"(화)일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "상점선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1205,"xPos1":-1,"yPos":681,"yPos1":-1},
-    {"__comment__": "이벤트상점선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":409,"xPos1":-1,"yPos":96,"yPos1":-1},
-    {"__comment__": "발롱도르D-DAY선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":235,"yPos1":-1},
-    {"__comment__": "출석체크선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":310,"xPos1":-1,"yPos":348,"yPos1":-1},
-    {"__comment__": "보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":233,"xPos1":-1,"yPos":667,"yPos1":-1},
-    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
-    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
-
     {"__comment__": "이적시장선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":638,"xPos1":-1,"yPos":94,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":115,"xPos1":-1,"yPos":263,"yPos1":-1},
@@ -154,19 +124,9 @@
     {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
-  ], "antiDetection":false,"id":0,"name":"(수)BLD24(Daily)+이적시장+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ], "antiDetection":false,"id":0,"name":"(수)이적시장+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "상점선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1205,"xPos1":-1,"yPos":681,"yPos1":-1},
-    {"__comment__": "이벤트상점선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":409,"xPos1":-1,"yPos":96,"yPos1":-1},
-    {"__comment__": "발롱도르D-DAY선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":235,"yPos1":-1},
-    {"__comment__": "출석체크선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":310,"xPos1":-1,"yPos":348,"yPos1":-1},
-    {"__comment__": "보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":233,"xPos1":-1,"yPos":667,"yPos1":-1},
-    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
-    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
-
     {"__comment__": "나의팀(로비)-각성특훈시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":812,"xPos1":-1,"yPos":525,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -212,19 +172,9 @@
     {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
-  ], "antiDetection":false,"id":0,"name":"(목)BLD24(Daily)+각성특훈1+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ], "antiDetection":false,"id":0,"name":"(목)각성특훈1+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "상점선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1205,"xPos1":-1,"yPos":681,"yPos1":-1},
-    {"__comment__": "이벤트상점선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":409,"xPos1":-1,"yPos":96,"yPos1":-1},
-    {"__comment__": "발롱도르D-DAY선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":235,"yPos1":-1},
-    {"__comment__": "출석체크선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":310,"xPos1":-1,"yPos":348,"yPos1":-1},
-    {"__comment__": "보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":233,"xPos1":-1,"yPos":667,"yPos1":-1},
-    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
-    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
-
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
     {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "매치센터>>일반모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":505,"xPos1":-1,"yPos":352,"yPos1":-1},
@@ -249,19 +199,9 @@
     {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
-  ], "antiDetection":false,"id":0,"name":"(금)BLD24(Daily)+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ], "antiDetection":false,"id":0,"name":"(금)일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "상점선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1205,"xPos1":-1,"yPos":681,"yPos1":-1},
-    {"__comment__": "이벤트상점선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":409,"xPos1":-1,"yPos":96,"yPos1":-1},
-    {"__comment__": "발롱도르D-DAY선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":235,"yPos1":-1},
-    {"__comment__": "출석체크선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":310,"xPos1":-1,"yPos":348,"yPos1":-1},
-    {"__comment__": "보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":233,"xPos1":-1,"yPos":667,"yPos1":-1},
-    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
-    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
-
     {"__comment__": "나의팀(로비)-강화시작", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":812,"xPos1":-1,"yPos":525,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":380,"xPos1":-1,"yPos":92,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":152,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -308,19 +248,9 @@
     {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
-  ], "antiDetection":false,"id":0,"name":"(토)BLD24(Daily)+강화1+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ], "antiDetection":false,"id":0,"name":"(토)강화1+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"__comment__": "상점선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1205,"xPos1":-1,"yPos":681,"yPos1":-1},
-    {"__comment__": "이벤트상점선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":409,"xPos1":-1,"yPos":96,"yPos1":-1},
-    {"__comment__": "발롱도르D-DAY선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":235,"yPos1":-1},
-    {"__comment__": "출석체크선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":310,"xPos1":-1,"yPos":348,"yPos1":-1},
-    {"__comment__": "보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":233,"xPos1":-1,"yPos":667,"yPos1":-1},
-    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
-    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
-
     {"__comment__": "이적시장선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":746,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":638,"xPos1":-1,"yPos":94,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":115,"xPos1":-1,"yPos":263,"yPos1":-1},
@@ -355,7 +285,7 @@
     {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
-  ], "antiDetection":false,"id":0,"name":"(일)BLD24(Daily)+이적시장1+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ], "antiDetection":false,"id":0,"name":"(일)이적시장1+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
     {"__comment__": "일일미션진입1-일일보상1", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
@@ -703,18 +633,5 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":458,"xPos1":-1,"yPos":432,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":260,"xPos1":-1,"yPos":209,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1}
-  ],"antiDetection":false,"id":0,"name":"일일미션-이적시장구매","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
-
-  {"targets":[
-    {"__comment__": "상점선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1205,"xPos1":-1,"yPos":681,"yPos1":-1},
-    {"__comment__": "이벤트상점선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":409,"xPos1":-1,"yPos":96,"yPos1":-1},
-    {"__comment__": "발롱도르D-DAY선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":235,"yPos1":-1},
-    {"__comment__": "출석체크선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":310,"xPos1":-1,"yPos":348,"yPos1":-1},
-    {"__comment__": "보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":233,"xPos1":-1,"yPos":667,"yPos1":-1},
-    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
-    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
-    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1}
-  ],"antiDetection":false,"id":0,"name":"[BLD24]Daily출석토큰수령","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300}
-
+  ],"antiDetection":false,"id":0,"name":"일일미션-이적시장구매","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300}
 ]
