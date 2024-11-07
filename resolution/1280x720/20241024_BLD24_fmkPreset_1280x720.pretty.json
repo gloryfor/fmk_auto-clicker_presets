@@ -633,5 +633,9 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":458,"xPos1":-1,"yPos":432,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":260,"xPos1":-1,"yPos":209,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1}
-  ],"antiDetection":false,"id":0,"name":"일일미션-이적시장구매","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300}
+  ],"antiDetection":false,"id":0,"name":"일일미션-이적시장구매","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+
+  {"targets":[
+    {"__comment__":  "정지조건(9경기)선택", "delayUnit":0,"delayValue":300,"duration":0,"type":0,"xPos":983,"xPos1":-1,"yPos":222,"yPos1":-1}
+  ],"antiDetection":false,"id":0,"name":"정지조건9경기좌표","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300}
 ]
