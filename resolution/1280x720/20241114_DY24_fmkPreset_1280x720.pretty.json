@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전241114.6)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전241114.7)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
@@ -49,7 +49,8 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":840,"xPos1":-1,"yPos":658,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":672,"xPos1":-1,"yPos":290,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1156,"xPos1":-1,"yPos":160,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1049,"xPos1":-1,"yPos":672,"yPos1":-1},
+    {"__comment__": "진화시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1049,"xPos1":-1,"yPos":672,"yPos1":-1},
+    {"__comment__": "계속하시겠습니까(확인)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":831,"xPos1":-1,"yPos":443,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1039,"xPos1":-1,"yPos":124,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1039,"xPos1":-1,"yPos":124,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":633,"xPos1":-1,"yPos":596,"yPos1":-1},
@@ -597,6 +598,7 @@
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":680,"xPos1":-1,"yPos":290,"yPos1":-1},
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":1155,"xPos1":-1,"yPos":157,"yPos1":-1},
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":1046,"xPos1":-1,"yPos":675,"yPos1":-1},
+    {"__comment__": "계속하시겠습니까(확인)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":831,"xPos1":-1,"yPos":443,"yPos1":-1},
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":810,"xPos1":-1,"yPos":434,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1043,"xPos1":-1,"yPos":129,"yPos1":-1}
   ],"antiDetection":false,"id":0,"name":"실금진화(1장)","numberOfCycles":100,"stopConditionChecked":2,"timeValue":300},
@@ -610,6 +612,7 @@
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":680,"xPos1":-1,"yPos":290,"yPos1":-1},
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":1155,"xPos1":-1,"yPos":157,"yPos1":-1},
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":1046,"xPos1":-1,"yPos":675,"yPos1":-1},
+    {"__comment__": "계속하시겠습니까(확인)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":831,"xPos1":-1,"yPos":443,"yPos1":-1},
     {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":810,"xPos1":-1,"yPos":434,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1043,"xPos1":-1,"yPos":129,"yPos1":-1}
   ],"antiDetection":false,"id":0,"name":"실금진화(3장)","numberOfCycles":100,"stopConditionChecked":2,"timeValue":300},
@@ -716,7 +719,8 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":840,"xPos1":-1,"yPos":658,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":672,"xPos1":-1,"yPos":290,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1156,"xPos1":-1,"yPos":160,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1049,"xPos1":-1,"yPos":672,"yPos1":-1},
+    {"__comment__": "진화시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1049,"xPos1":-1,"yPos":672,"yPos1":-1},
+    {"__comment__": "계속하시겠습니까(확인)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":831,"xPos1":-1,"yPos":443,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1039,"xPos1":-1,"yPos":124,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1039,"xPos1":-1,"yPos":124,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":633,"xPos1":-1,"yPos":596,"yPos1":-1},
