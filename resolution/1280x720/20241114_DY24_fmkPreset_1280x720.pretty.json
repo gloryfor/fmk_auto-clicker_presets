@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전241114.7)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전241114.8)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
@@ -214,7 +214,8 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":222,"yPos1":-1},
     {"__comment__": "특별훈련각성선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":118,"xPos1":-1,"yPos":368,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":564,"xPos1":-1,"yPos":213,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":674,"yPos1":-1},
+    {"__comment__": "특별훈련","delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":674,"yPos1":-1},
+    {"__comment__": "계속하시겠습니까(확인)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":831,"xPos1":-1,"yPos":443,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1235,"xPos1":-1,"yPos":43,"yPos1":-1},
 
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
@@ -748,7 +749,8 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":222,"yPos1":-1},
     {"__comment__": "특별훈련각성선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":118,"xPos1":-1,"yPos":368,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":564,"xPos1":-1,"yPos":213,"yPos1":-1},
-    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":674,"yPos1":-1},
+    {"__comment__": "특별훈련","delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":674,"yPos1":-1},
+    {"__comment__": "계속하시겠습니까(확인)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":831,"xPos1":-1,"yPos":443,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1235,"xPos1":-1,"yPos":43,"yPos1":-1}
   ],"antiDetection":false,"id":0,"name":"일일미션-각성특훈","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
