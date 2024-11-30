@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전241114.13)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전241114.14)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
@@ -657,7 +657,7 @@
     {"__comment__": "좌측으로스크롤3", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
     {"__comment__": "우측으로스크롤(TOTP25-매치)", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":528,"xPos1":400,"yPos":231,"yPos1":232},
     {"__comment__": "토요일매치PVE선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":403,"xPos1":-1,"yPos":606,"yPos1":-1},
-    {"__comment__": "매치플레이(10분대기)", "delayUnit":2,"delayValue":10, "duration":0,"type":0,"xPos":1062,"xPos1":-1,"yPos":630,"yPos1":-1},
+    {"__comment__": "매치플레이(12분대기)", "delayUnit":2,"delayValue":12, "duration":0,"type":0,"xPos":1062,"xPos1":-1,"yPos":630,"yPos1":-1},
     {"__comment__": "게임종료/보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":717,"xPos1":-1,"yPos":584,"yPos1":-1},
     {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -799,7 +799,7 @@
     {"__comment__": "좌측으로스크롤3", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
     {"__comment__": "우측으로스크롤(TOTP25-매치)", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":528,"xPos1":400,"yPos":231,"yPos1":232},
     {"__comment__": "일요일매치PVE선택",  "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":690,"xPos1":-1,"yPos":600,"yPos1":-1},
-    {"__comment__": "매치플레이(10분대기)", "delayUnit":2,"delayValue":10, "duration":0,"type":0,"xPos":1062,"xPos1":-1,"yPos":630,"yPos1":-1},
+    {"__comment__": "매치플레이(12분대기)", "delayUnit":2,"delayValue":12, "duration":0,"type":0,"xPos":1062,"xPos1":-1,"yPos":630,"yPos1":-1},
     {"__comment__": "게임종료/보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":717,"xPos1":-1,"yPos":584,"yPos1":-1},
     {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -1306,7 +1306,7 @@
     {"__comment__": "좌측으로스크롤3", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
     {"__comment__": "우측으로스크롤(TOTP25-매치)", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":528,"xPos1":400,"yPos":231,"yPos1":232},
     {"__comment__": "토요일매치PVE선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":403,"xPos1":-1,"yPos":606,"yPos1":-1},
-    {"__comment__": "매치플레이(10분대기)", "delayUnit":2,"delayValue":10, "duration":0,"type":0,"xPos":1062,"xPos1":-1,"yPos":630,"yPos1":-1},
+    {"__comment__": "매치플레이(12분대기)", "delayUnit":2,"delayValue":12, "duration":0,"type":0,"xPos":1062,"xPos1":-1,"yPos":630,"yPos1":-1},
     {"__comment__": "게임종료/보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":717,"xPos1":-1,"yPos":584,"yPos1":-1},
     {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -1326,7 +1326,7 @@
     {"__comment__": "좌측으로스크롤3", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
     {"__comment__": "우측으로스크롤(TOTP25-매치)", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":528,"xPos1":400,"yPos":231,"yPos1":232},
     {"__comment__": "일요일매치PVE선택",  "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":690,"xPos1":-1,"yPos":600,"yPos1":-1},
-    {"__comment__": "매치플레이(10분대기)", "delayUnit":2,"delayValue":10, "duration":0,"type":0,"xPos":1062,"xPos1":-1,"yPos":630,"yPos1":-1},
+    {"__comment__": "매치플레이(12분대기)", "delayUnit":2,"delayValue":12, "duration":0,"type":0,"xPos":1062,"xPos1":-1,"yPos":630,"yPos1":-1},
     {"__comment__": "게임종료/보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":717,"xPos1":-1,"yPos":584,"yPos1":-1},
     {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
     {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
