@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전241212.0)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전241212.1)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
@@ -895,22 +895,15 @@
   ],"antiDetection":false,"id":11,"name":"일일미션보상4","numberOfCycles":4,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
-    {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":113,"xPos1":-1,"yPos":256,"yPos1":-1},
-    {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":1001,"xPos1":-1,"yPos":600,"yPos1":-1},
-    {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":827,"xPos1":-1,"yPos":466,"yPos1":-1},
-    {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":999,"xPos1":-1,"yPos":601,"yPos1":-1},
-    {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":949,"xPos1":-1,"yPos":661,"yPos1":-1},
-    {"delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":753,"xPos1":-1,"yPos":489,"yPos1":-1},
-    {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":910,"xPos1":-1,"yPos":436,"yPos1":-1}
-  ],"antiDetection":false,"id":0,"name":"이적시장판매(잠금O)","numberOfCycles":20,"stopConditionChecked":2,"timeValue":300},
-
-  {"targets":[
-    {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":118,"xPos1":-1,"yPos":251,"yPos1":-1},
-    {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":1004,"xPos1":-1,"yPos":604,"yPos1":-1},
-    {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":944,"xPos1":-1,"yPos":660,"yPos1":-1},
-    {"delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":775,"xPos1":-1,"yPos":491,"yPos1":-1},
-    {"delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":867,"xPos1":-1,"yPos":432,"yPos1":-1}
-  ],"antiDetection":false,"id":0,"name":"이적시장판매(잠금X)","numberOfCycles":20,"stopConditionChecked":2,"timeValue":300},
+    {"__comment__": "선수선택위치","delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":113,"xPos1":-1,"yPos":256,"yPos1":-1},
+    {"__comment__": "판매버튼클릭", "delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":1001,"xPos1":-1,"yPos":600,"yPos1":-1},
+    {"__comment__": "알림(확인)/잠금해제","delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":680,"xPos1":-1,"yPos":456,"yPos1":-1},
+    {"__comment__": "알림(확인)/잠금해제","delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":680,"xPos1":-1,"yPos":456,"yPos1":-1},
+    {"__comment__": "판매버튼클릭", "delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":999,"xPos1":-1,"yPos":601,"yPos1":-1},
+    {"__comment__": "알림(확인)/잠금해제","delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":680,"xPos1":-1,"yPos":456,"yPos1":-1},
+    {"__comment__": "선수판매", "delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":949,"xPos1":-1,"yPos":661,"yPos1":-1},
+    {"__comment__": "판매등록확인", "delayUnit":0,"delayValue":1000,"duration":0,"type":0,"xPos":910,"xPos1":-1,"yPos":436,"yPos1":-1}
+  ],"antiDetection":false,"id":14,"name":"이적시장판매(잠금O)","numberOfCycles":20,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
     {"__comment1__": "(아카데미진입후사용)고급과정선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":547,"xPos1":-1,"yPos":113,"yPos1":-1},
