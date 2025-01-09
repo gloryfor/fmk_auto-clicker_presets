@@ -967,7 +967,7 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1239,"xPos1":-1,"yPos":57,"yPos1":-1}
-  ],"antiDetection":false,"id":0,"name":"일일미션보상(DAILY(2,1))","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+  ],"antiDetection":false,"id":0,"name":"일일미션보상(DAILY(2,1))","numberOfCycles":2,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
     {"delayUnit":0,"delayValue":2000,"duration":0,"type":0,"xPos":90,"xPos1":-1,"yPos":513,"yPos1":-1},
