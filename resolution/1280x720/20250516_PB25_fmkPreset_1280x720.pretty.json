@@ -1,5 +1,5 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전250516.2)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전250516.3)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "상점선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1188,"xPos1":-1,"yPos":682,"yPos1":-1},
@@ -38,6 +38,81 @@
     {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
   ], "antiDetection":false,"id":0,"name":"(일일미션)상점팩+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+
+  {"targets":[
+    {"__comment__": "상점선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1188,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "추천/스페셜선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":192,"xPos1":-1,"yPos":94,"yPos1":-1},
+    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":111,"xPos1":-1,"yPos":303,"yPos1":-1},
+    {"__comment__": "웰컴프리패키지선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1157,"xPos1":-1,"yPos":320,"yPos1":-1},
+    {"__comment__": "무료(보상수령시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":664,"yPos1":-1},
+    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":994,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1033,"xPos1":-1,"yPos":682,"yPos1":-1},
+
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1}
+  ,
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
+    {"__comment__": "플레이센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":486,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1195,"yPos":168,"yPos1":164},
+    {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1199,"yPos":164,"yPos1":163},
+    {"__comment__": "[PB25]이벤트선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":330,"xPos1":-1,"yPos":390,"yPos1":-1},
+    {"__comment__": "[PB25]힙합선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":558,"xPos1":-1,"yPos":116,"yPos1":-1},
+    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
+    {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
+    {"__comment__": "좌측으로스크롤3", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
+    {"__comment__": "우측으로스크롤", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":739,"xPos1":180,"yPos":254,"yPos1":255},
+    {"__comment__": "일요일매치선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":633,"xPos1":-1,"yPos":475,"yPos1":-1},
+    {"__comment__": "매치시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":956,"xPos1":-1,"yPos":630,"yPos1":-1},
+    {"__comment__": "게임종료/보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":717,"xPos1":-1,"yPos":584,"yPos1":-1},
+    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
+    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
+
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
+
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
+    {"__comment__": "플레이센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":486,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1195,"yPos":168,"yPos1":164},
+    {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1199,"yPos":164,"yPos1":163},
+    {"__comment__": "[PB25]이벤트선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":330,"xPos1":-1,"yPos":390,"yPos1":-1},
+    {"__comment__": "[PB25]힙합선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":558,"xPos1":-1,"yPos":116,"yPos1":-1},
+    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
+    {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
+    {"__comment__": "좌측으로스크롤3", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
+    {"__comment__": "우측으로스크롤", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":739,"xPos1":180,"yPos":254,"yPos1":255},
+    {"__comment__": "힙합토큰x2수령선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":862,"xPos1":-1,"yPos":474,"yPos1":-1},
+    {"__comment__": "보샹수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":956,"xPos1":-1,"yPos":630,"yPos1":-1},
+    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
+    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
+
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
+
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>일반모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":505,"xPos1":-1,"yPos":352,"yPos1":-1},
+    {"__comment__": "일모시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":110,"xPos1":-1,"yPos":596,"yPos1":-1},
+    {"__comment__": "일모종료", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":796,"xPos1":-1,"yPos":652,"yPos1":-1},
+
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1241,"xPos1":-1,"yPos":42,"yPos1":-1},
+
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>매니저모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":809,"xPos1":-1,"yPos":348,"yPos1":-1},
+    {"__comment__": "매니저모드시작(9분대기)", "delayUnit":2,"delayValue":9,"duration":0,"type":0,"xPos":128,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매니저모드종료후 보상수령", "delayUnit":1,"delayValue":5,"duration":0,"type":0,"xPos":811,"xPos1":-1,"yPos":654,"yPos1":-1},
+    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":994,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1033,"xPos1":-1,"yPos":682,"yPos1":-1},
+
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1},
+
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
+    {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "매치센터>>공격모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":201,"xPos1":-1,"yPos":351,"yPos1":-1},
+    {"__comment__": "공모자동선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":294,"xPos1":-1,"yPos":664,"yPos1":-1},
+    {"__comment__": "공모자동시작", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":869,"xPos1":-1,"yPos":615,"yPos1":-1}
+  ], "antiDetection":false,"id":0,"name":"(일)(일일미션)상점팩+[PB25]일요일매치+[PB25]힙합토큰수령+일모1+매니저1+공모자동","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
@@ -428,6 +503,45 @@
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1033,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1}
   ],"antiDetection":false,"id":0,"name":"일일미션-상점팩","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+
+  {"targets":[
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
+    {"__comment__": "플레이센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":486,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1195,"yPos":168,"yPos1":164},
+    {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1199,"yPos":164,"yPos1":163},
+    {"__comment__": "[PB25]이벤트선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":330,"xPos1":-1,"yPos":390,"yPos1":-1},
+    {"__comment__": "[PB25]힙합선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":558,"xPos1":-1,"yPos":116,"yPos1":-1},
+    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
+    {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
+    {"__comment__": "좌측으로스크롤3", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
+    {"__comment__": "우측으로스크롤", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":739,"xPos1":180,"yPos":254,"yPos1":255},
+    {"__comment__": "일요일매치선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":633,"xPos1":-1,"yPos":475,"yPos1":-1},
+    {"__comment__": "매치시작(10분대기)", "delayUnit":2,"delayValue":10,"duration":0,"type":0,"xPos":956,"xPos1":-1,"yPos":630,"yPos1":-1},
+    {"__comment__": "게임종료/보상수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":717,"xPos1":-1,"yPos":584,"yPos1":-1},
+    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
+    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1}
+  ],"antiDetection":false,"id":0,"name":"[PB25:힙합]일요일매치","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
+
+  {"targets":[
+    {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
+    {"__comment__": "플레이센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":486,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1195,"yPos":168,"yPos1":164},
+    {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1199,"yPos":164,"yPos1":163},
+    {"__comment__": "[PB25]이벤트선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":330,"xPos1":-1,"yPos":390,"yPos1":-1},
+    {"__comment__": "[PB25]힙합선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":558,"xPos1":-1,"yPos":116,"yPos1":-1},
+    {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
+    {"__comment__": "좌측으로스크롤2", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
+    {"__comment__": "좌측으로스크롤3", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":260,"xPos1":1010,"yPos":190,"yPos1":183},
+    {"__comment__": "우측으로스크롤", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":739,"xPos1":180,"yPos":254,"yPos1":255},
+    {"__comment__": "힙합토큰x2수령선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":862,"xPos1":-1,"yPos":474,"yPos1":-1},
+    {"__comment__": "보샹수령시작", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":956,"xPos1":-1,"yPos":630,"yPos1":-1},
+    {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":603,"xPos1":-1,"yPos":583,"yPos1":-1},
+    {"delayUnit":1,"delayValue":3,"duration":0,"type":0,"xPos":1060,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "보상수령완료", "delayUnit":1,"delayValue":10,"duration":0,"type":0,"xPos":1165,"xPos1":-1,"yPos":682,"yPos1":-1},
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1237,"xPos1":-1,"yPos":48,"yPos1":-1}
+  ],"antiDetection":false,"id":0,"name":"[PB25:힙합]토큰x2 수령","numberOfCycles":1,"stopConditionChecked":2,"timeValue":300},
 
   {"targets":[
     {"__comment__":  "정지조건(9경기)선택", "delayUnit":0,"delayValue":300,"duration":0,"type":0,"xPos":983,"xPos1":-1,"yPos":222,"yPos1":-1}
