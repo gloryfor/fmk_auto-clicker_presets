@@ -1,18 +1,18 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전250516.5)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전250516.6)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "상점선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1188,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "추천/스페셜선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":192,"xPos1":-1,"yPos":94,"yPos1":-1},
-    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":367,"yPos1":-1},
-    {"__comment__": "웰컴프리패키지선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":314,"xPos1":-1,"yPos":598,"yPos1":-1},
+    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":111,"xPos1":-1,"yPos":303,"yPos1":-1},
+    {"__comment__": "웰컴프리패키지선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1157,"xPos1":-1,"yPos":320,"yPos1":-1},
     {"__comment__": "무료(보상수령시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":994,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1033,"xPos1":-1,"yPos":682,"yPos1":-1},
 
-    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1}
-  ,
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1},
+
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1104,"xPos1":-1,"yPos":531,"yPos1":-1},
     {"__comment__": "매치센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":186,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "매치센터>>일반모드", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":505,"xPos1":-1,"yPos":352,"yPos1":-1},
@@ -42,15 +42,15 @@
   {"targets":[
     {"__comment__": "상점선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1188,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "추천/스페셜선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":192,"xPos1":-1,"yPos":94,"yPos1":-1},
-    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":367,"yPos1":-1},
-    {"__comment__": "웰컴프리패키지선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":314,"xPos1":-1,"yPos":598,"yPos1":-1},
+    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":111,"xPos1":-1,"yPos":303,"yPos1":-1},
+    {"__comment__": "웰컴프리패키지선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1157,"xPos1":-1,"yPos":320,"yPos1":-1},
     {"__comment__": "무료(보상수령시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":994,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1033,"xPos1":-1,"yPos":682,"yPos1":-1},
 
-    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1}
-  ,
+    {"__comment__": "로비", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1242,"xPos1":-1,"yPos":41,"yPos1":-1},
+
     {"__comment__": "매치&플레이선택(로비)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1096,"xPos1":-1,"yPos":534,"yPos1":-1},
     {"__comment__": "플레이센터선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":486,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "좌측으로스크롤1", "delayUnit":0,"delayValue":3000,"duration":500,"type":1,"xPos":201,"xPos1":1195,"yPos":168,"yPos1":164},
@@ -495,8 +495,8 @@
   {"targets":[
     {"__comment__": "상점선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1188,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "추천/스페셜선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":192,"xPos1":-1,"yPos":94,"yPos1":-1},
-    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":114,"xPos1":-1,"yPos":367,"yPos1":-1},
-    {"__comment__": "웰컴프리패키지선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":314,"xPos1":-1,"yPos":598,"yPos1":-1},
+    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":111,"xPos1":-1,"yPos":303,"yPos1":-1},
+    {"__comment__": "웰컴프리패키지선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1157,"xPos1":-1,"yPos":320,"yPos1":-1},
     {"__comment__": "무료(보상수령시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
     {"delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":994,"xPos1":-1,"yPos":682,"yPos1":-1},
