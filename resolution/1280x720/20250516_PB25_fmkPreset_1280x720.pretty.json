@@ -1,10 +1,10 @@
 [
-  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전250516.9)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
+  {"targets":[],"antiDetection":false,"id":0,"name":"리셋(버전250516.10)","numberOfCycles":1,"stopConditionChecked":0,"timeValue":300},
 
   {"targets":[
     {"__comment__": "상점선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1188,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "추천/스페셜선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":192,"xPos1":-1,"yPos":94,"yPos1":-1},
-    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":109,"xPos1":-1,"yPos":307,"yPos1":-1},
+    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":134,"xPos1":-1,"yPos":434,"yPos1":-1},
     {"__comment__": "웰컴프리패키지선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1176,"xPos1":-1,"yPos":307,"yPos1":-1},
     {"__comment__": "무료(보상수령시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
@@ -42,7 +42,7 @@
   {"targets":[
     {"__comment__": "상점선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1188,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "추천/스페셜선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":192,"xPos1":-1,"yPos":94,"yPos1":-1},
-    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":109,"xPos1":-1,"yPos":307,"yPos1":-1},
+    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":134,"xPos1":-1,"yPos":434,"yPos1":-1},
     {"__comment__": "웰컴프리패키지선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1176,"xPos1":-1,"yPos":307,"yPos1":-1},
     {"__comment__": "무료(보상수령시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
@@ -495,7 +495,7 @@
   {"targets":[
     {"__comment__": "상점선택", "delayUnit":0,"delayValue":5000,"duration":0,"type":0,"xPos":1188,"xPos1":-1,"yPos":682,"yPos1":-1},
     {"__comment__": "추천/스페셜선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":192,"xPos1":-1,"yPos":94,"yPos1":-1},
-    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":109,"xPos1":-1,"yPos":307,"yPos1":-1},
+    {"__comment__": "인기상품선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":134,"xPos1":-1,"yPos":434,"yPos1":-1},
     {"__comment__": "웰컴프리패키지선택", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":1176,"xPos1":-1,"yPos":307,"yPos1":-1},
     {"__comment__": "무료(보상수령시작)", "delayUnit":0,"delayValue":3000,"duration":0,"type":0,"xPos":235,"xPos1":-1,"yPos":664,"yPos1":-1},
     {"delayUnit":1,"delayValue":4,"duration":0,"type":0,"xPos":565,"xPos1":-1,"yPos":589,"yPos1":-1},
